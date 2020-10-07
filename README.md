@@ -28,10 +28,9 @@ Python3, Jupyter Notebook
 
 
 # Results
-The most common price listings are in the 50-200 USD range with the highest price being 4000 dollars
+The most common properties used in Seattle is thr Houses, and the comman price listings are in the 25-200 USD range with the highest price being 1000 USD
 Property types like bread and breakfast are the cheapest and room types which are shared are generally cheapest
-Entire homes/ apartments are the most costly in each neighbourhood while South boston Waterfront is the most expensive neighburhood at 306 dollars.
-Top 5 amenities are Wireless Internet, Heating, kitchen, Essentials, Smoke detector
+Entire homes/
 
 # Deployment:
 Google Collab
